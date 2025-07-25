@@ -36,9 +36,9 @@ This project compares traditional time series forecasting techniques (**ARIMA**,
 | File | Description |
 |------|-------------|
 | `compare both lstm and arima sarima forecasting.ipynb` | Main Jupyter notebook with all models |
-| `stock_data.csv` *(optional)* | Historical stock dataset used for modeling |
+| `stock_data.csv` | Historical stock dataset used for modeling |
 | `README.md` | Project overview |
-| `dashboard.png` or `report.pdf` *(optional)* | Output visuals or final report |
+| `dashboard.png` or `report.pdf`| Output visuals or final report |
 
 ---
 
